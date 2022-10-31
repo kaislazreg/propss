@@ -1,5 +1,38 @@
-.App {
+.app {
+ 
+
   text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  margin-right: 100px;
+  margin-left: 100px;
+  
+  height: 624px;
+  padding-top: 129px;
+}
+
+.profilee {
+  text-transform: capitalize;
+  text-decoration: solid ;
+  text-size-adjust: ;
+ 
+  
+}
+
+.iimg {
+  border-top-left-radius: 50% 50%; border-top-right-radius: 50% 50%; border-bottom-right-radius: 50% 50%; border-bottom-left-radius: 50% 50%;
+}
+
+.kk {
+  display: flex;
+  text-align: center;
+  columns: auto;
+}
+
+.aapp {
+  background:rgba(0, 0, 0, .07) url("../public/fantasy-abandoned-city-night_141465-12.webp") ;
+  background-repeat: no-repeat;
+  
 }
 
 .App-logo {
